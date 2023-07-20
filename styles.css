@@ -1,0 +1,19 @@
+.col-lg-4 {
+    object-fit: cover;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 12px;
+}
+.card {
+    border-radius: 0;
+}
+.image img {
+    border-radius: 0;
+    object-fit: contain;
+}
+p {
+    font-size: 13px;
+}
+.header :last-child {
+    justify-content: end;
+}
